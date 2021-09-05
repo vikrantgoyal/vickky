@@ -1,0 +1,289 @@
+Cid,City,Month,Heavy Wind,Heavy snowy ,Floods,earthquake,Result
+1,Agra ,1,0,0,0,0,1
+1,Agra ,2,0,0,0,0,0
+1,Agra ,3,0,0,0,0,0
+1,Agra ,4,0,0,0,0,0
+1,Agra ,5,0,0,0,0,0
+1,Agra ,6,0,0,0,0,0
+1,Agra ,7,0,0,0,0,0
+1,Agra ,8,0,0,0,0,1
+1,Agra ,9,0,0,0,0,0
+1,Agra ,10,0,0,0,0,0
+1,Agra ,11,0,0,0,0,0
+1,Agra ,12,0,0,0,0,0
+2,Aurangabad ,1,0,0,0,0,0
+2,Aurangabad ,2,0,0,0,0,0
+2,Aurangabad ,3,0,0,0,0,0
+2,Aurangabad ,4,0,0,0,0,0
+2,Aurangabad ,5,0,0,0,0,0
+2,Aurangabad ,6,0,0,0,0,0
+2,Aurangabad ,7,0,0,0,0,0
+2,Aurangabad ,8,0,0,0,0,0
+2,Aurangabad ,9,0,0,0,0,0
+2,Aurangabad ,10,0,0,0,0,0
+2,Aurangabad ,11,0,0,0,0,0
+2,Aurangabad ,12,0,0,0,0,0
+3,Bengaluru ,1,0,0,0,0,0
+3,Bengaluru ,2,0,0,0,0,0
+3,Bengaluru ,3,0,0,0,0,0
+3,Bengaluru ,4,0,0,0,0,0
+3,Bengaluru ,5,0,0,0,0,0
+3,Bengaluru ,6,0,0,0,0,0
+3,Bengaluru ,7,0,0,0,0,0
+3,Bengaluru ,8,0,0,0,0,0
+3,Bengaluru ,9,0,0,0,0,0
+3,Bengaluru ,10,0,0,0,0,0
+3,Bengaluru ,11,0,0,0,0,0
+3,Bengaluru ,12,0,0,0,0,0
+4,Bhopal ,1,0,0,0,0,0
+4,Bhopal ,2,0,0,0,0,0
+4,Bhopal ,3,0,0,0,0,0
+4,Bhopal ,4,0,0,0,0,0
+4,Bhopal ,5,0,0,0,0,0
+4,Bhopal ,6,0,0,0,0,0
+4,Bhopal ,7,0,0,0,0,0
+4,Bhopal ,8,0,0,0,0,0
+4,Bhopal ,9,0,0,0,0,0
+4,Bhopal ,10,0,0,0,0,0
+4,Bhopal ,11,0,0,0,0,0
+4,Bhopal ,12,0,0,0,0,0
+5,Bhubaneswar ,1,0,0,0,0,0
+5,Bhubaneswar ,2,0,0,0,0,0
+5,Bhubaneswar ,3,0,0,0,0,0
+5,Bhubaneswar ,4,0,0,0,0,0
+5,Bhubaneswar ,5,0,0,0,0,0
+5,Bhubaneswar ,6,0,0,0,0,0
+5,Bhubaneswar ,7,0,0,0,0,0
+5,Bhubaneswar ,8,0,0,0,0,0
+5,Bhubaneswar ,9,0,0,0,0,0
+5,Bhubaneswar ,10,0,0,0,0,0
+5,Bhubaneswar ,11,0,0,0,0,0
+5,Bhubaneswar ,12,0,0,0,0,0
+6,Chandigarh ,1,0,0,0,0,0
+6,Chandigarh ,2,0,0,0,0,0
+6,Chandigarh ,3,0,0,0,0,0
+6,Chandigarh ,4,0,0,0,0,0
+6,Chandigarh ,5,0,0,0,0,0
+6,Chandigarh ,6,0,0,0,0,0
+6,Chandigarh ,7,0,0,0,0,0
+6,Chandigarh ,8,0,0,0,0,0
+6,Chandigarh ,9,0,0,0,0,0
+6,Chandigarh ,10,0,0,0,0,0
+6,Chandigarh ,11,0,0,0,0,0
+6,Chandigarh ,12,0,0,0,0,0
+7,Chennai ,1,0,0,0,0,0
+7,Chennai ,2,0,0,0,0,0
+7,Chennai ,3,0,0,0,0,0
+7,Chennai ,4,0,0,0,0,0
+7,Chennai ,5,0,0,0,0,0
+7,Chennai ,6,0,0,0,0,0
+7,Chennai ,7,0,0,0,0,0
+7,Chennai ,8,0,0,0,0,0
+7,Chennai ,9,0,0,0,0,0
+7,Chennai ,10,0,0,0,0,0
+7,Chennai ,11,0,0,0,0,0
+7,Chennai ,12,0,0,0,0,0
+8,Delhi ,1,0,0,0,0,0
+8,Delhi ,2,0,0,0,0,0
+8,Delhi ,3,0,0,0,0,0
+8,Delhi ,4,0,0,0,0,0
+8,Delhi ,5,0,0,0,0,0
+8,Delhi ,6,0,0,0,0,0
+8,Delhi ,7,0,0,0,0,0
+8,Delhi ,8,0,0,0,0,0
+8,Delhi ,9,0,0,0,0,0
+8,Delhi ,10,0,0,0,0,0
+8,Delhi ,11,0,0,0,0,0
+8,Delhi ,12,0,0,0,0,0
+9,Dharwad ,1,0,0,0,0,0
+9,Dharwad ,2,0,0,0,0,0
+9,Dharwad ,3,0,0,0,0,0
+9,Dharwad ,4,0,0,0,0,0
+9,Dharwad ,5,0,0,0,0,0
+9,Dharwad ,6,0,0,0,0,0
+9,Dharwad ,7,0,0,0,0,0
+9,Dharwad ,8,0,0,0,0,0
+9,Dharwad ,9,0,0,0,0,0
+9,Dharwad ,10,0,0,0,0,0
+9,Dharwad ,11,0,0,0,0,0
+9,Dharwad ,12,0,0,0,0,0
+10,Guwahati ,1,0,0,0,0,0
+10,Guwahati ,2,0,0,0,0,0
+10,Guwahati ,3,0,0,0,0,0
+10,Guwahati ,4,0,0,0,0,0
+10,Guwahati ,5,0,0,0,0,0
+10,Guwahati ,6,0,0,0,0,0
+10,Guwahati ,7,0,0,0,0,0
+10,Guwahati ,8,0,0,0,0,0
+10,Guwahati ,9,0,0,0,0,0
+10,Guwahati ,10,0,0,0,0,0
+10,Guwahati ,11,0,0,0,0,0
+10,Guwahati ,12,0,0,0,0,0
+11,Hampi Mini ,1,0,0,0,0,0
+11,Hampi Mini ,2,0,0,0,0,0
+11,Hampi Mini ,3,0,0,0,0,0
+11,Hampi Mini ,4,0,0,0,0,0
+11,Hampi Mini ,5,0,0,0,0,0
+11,Hampi Mini ,6,0,0,0,0,0
+11,Hampi Mini ,7,0,0,0,0,0
+11,Hampi Mini ,8,0,0,0,0,0
+11,Hampi Mini ,9,0,0,0,0,0
+11,Hampi Mini ,10,0,0,0,0,0
+11,Hampi Mini ,11,0,0,0,0,0
+11,Hampi Mini ,12,0,0,0,0,0
+12,Jaipur ,1,0,0,0,0,0
+12,Jaipur ,2,0,0,0,0,0
+12,Jaipur ,3,0,0,0,0,0
+12,Jaipur ,4,0,0,0,0,0
+12,Jaipur ,5,0,0,0,0,0
+12,Jaipur ,6,0,0,0,0,0
+12,Jaipur ,7,0,0,0,0,0
+12,Jaipur ,8,0,0,0,0,0
+12,Jaipur ,9,0,0,0,0,0
+12,Jaipur ,10,0,0,0,0,0
+12,Jaipur ,11,0,0,0,0,0
+12,Jaipur ,12,0,0,0,0,0
+13,Jodhpur ,1,0,0,0,0,0
+13,Jodhpur ,2,0,0,0,0,0
+13,Jodhpur ,3,0,0,0,0,0
+13,Jodhpur ,4,0,0,0,0,0
+13,Jodhpur ,5,0,0,0,0,0
+13,Jodhpur ,6,0,0,0,0,0
+13,Jodhpur ,7,0,0,0,0,0
+13,Jodhpur ,8,0,0,0,0,0
+13,Jodhpur ,9,0,0,0,0,0
+13,Jodhpur ,10,0,0,0,0,0
+13,Jodhpur ,11,0,0,0,0,0
+13,Jodhpur ,12,0,0,0,0,0
+14,Kolkata ,1,0,0,0,0,0
+14,Kolkata ,2,0,0,0,0,0
+14,Kolkata ,3,0,0,0,0,0
+14,Kolkata ,4,0,0,0,0,0
+14,Kolkata ,5,0,0,0,0,0
+14,Kolkata ,6,0,0,0,0,0
+14,Kolkata ,7,0,0,0,0,0
+14,Kolkata ,8,0,0,0,0,0
+14,Kolkata ,9,0,0,0,0,0
+14,Kolkata ,10,0,0,0,0,0
+14,Kolkata ,11,0,0,0,0,0
+14,Kolkata ,12,0,0,0,0,0
+15,Leh Mini ,1,0,0,0,0,0
+15,Leh Mini ,2,0,0,0,0,0
+15,Leh Mini ,3,0,0,0,0,0
+15,Leh Mini ,4,0,0,0,0,0
+15,Leh Mini ,5,0,0,0,0,0
+15,Leh Mini ,6,0,0,0,0,0
+15,Leh Mini ,7,0,0,0,0,0
+15,Leh Mini ,8,0,0,0,0,0
+15,Leh Mini ,9,0,0,0,0,0
+15,Leh Mini ,10,0,0,0,0,0
+15,Leh Mini ,11,0,0,0,0,0
+15,Leh Mini ,12,0,0,0,0,0
+16,Lucknow ,1,0,0,0,0,0
+16,Lucknow ,2,0,0,0,0,0
+16,Lucknow ,3,0,0,0,0,0
+16,Lucknow ,4,0,0,0,0,0
+16,Lucknow ,5,0,0,0,0,0
+16,Lucknow ,6,0,0,0,0,0
+16,Lucknow ,7,0,0,0,0,0
+16,Lucknow ,8,0,0,0,0,0
+16,Lucknow ,9,0,0,0,0,0
+16,Lucknow ,10,0,0,0,0,0
+16,Lucknow ,11,0,0,0,0,0
+16,Lucknow ,12,0,0,0,0,0
+17,Mumbai ,1,0,0,0,0,0
+17,Mumbai ,2,0,0,0,0,0
+17,Mumbai ,3,0,0,0,0,0
+17,Mumbai ,4,0,0,0,0,0
+17,Mumbai ,5,0,0,0,0,0
+17,Mumbai ,6,0,0,0,0,0
+17,Mumbai ,7,0,0,0,0,0
+17,Mumbai ,8,0,0,0,0,0
+17,Mumbai ,9,0,0,0,0,0
+17,Mumbai ,10,0,0,0,0,0
+17,Mumbai ,11,0,0,0,0,0
+17,Mumbai ,12,0,0,0,0,0
+18,Patna ,1,0,0,0,0,0
+18,Patna ,2,0,0,0,0,0
+18,Patna ,3,0,0,0,0,0
+18,Patna ,4,0,0,0,0,0
+18,Patna ,5,0,0,0,0,0
+18,Patna ,6,0,0,0,0,0
+18,Patna ,7,0,0,0,0,0
+18,Patna ,8,0,0,0,0,0
+18,Patna ,9,0,0,0,0,0
+18,Patna ,10,0,0,0,0,0
+18,Patna ,11,0,0,0,0,0
+18,Patna ,12,0,0,0,0,0
+19,Raipur ,1,0,0,0,0,0
+19,Raipur ,2,0,0,0,0,0
+19,Raipur ,3,0,0,0,0,0
+19,Raipur ,4,0,0,0,0,0
+19,Raipur ,5,0,0,0,0,0
+19,Raipur ,6,0,0,0,0,0
+19,Raipur ,7,0,0,0,0,0
+19,Raipur ,8,0,0,0,0,0
+19,Raipur ,9,0,0,0,0,0
+19,Raipur ,10,0,0,0,0,0
+19,Raipur ,11,0,0,0,0,0
+19,Raipur ,12,0,0,0,0,0
+20,Sarnath ,1,0,0,0,0,0
+20,Sarnath ,2,0,0,0,0,0
+20,Sarnath ,3,0,0,0,0,0
+20,Sarnath ,4,0,0,0,0,0
+20,Sarnath ,5,0,0,0,0,0
+20,Sarnath ,6,0,0,0,0,0
+20,Sarnath ,7,0,0,0,0,0
+20,Sarnath ,8,0,0,0,0,0
+20,Sarnath ,9,0,0,0,0,0
+20,Sarnath ,10,0,0,0,0,0
+20,Sarnath ,11,0,0,0,0,0
+20,Sarnath ,12,0,0,0,0,0
+21,Shimla Mini ,1,0,0,0,0,0
+21,Shimla Mini ,2,0,0,0,0,0
+21,Shimla Mini ,3,0,0,0,0,0
+21,Shimla Mini ,4,0,0,0,0,0
+21,Shimla Mini ,5,0,0,0,0,0
+21,Shimla Mini ,6,0,0,0,0,0
+21,Shimla Mini ,7,0,0,0,0,0
+21,Shimla Mini ,8,0,0,0,0,0
+21,Shimla Mini ,9,0,0,0,0,0
+21,Shimla Mini ,10,0,0,0,0,0
+21,Shimla Mini ,11,0,0,0,0,0
+21,Shimla Mini ,12,0,0,0,0,0
+22,Srinagar ,1,0,0,0,0,0
+22,Srinagar ,2,0,0,0,0,0
+22,Srinagar ,3,0,0,0,0,0
+22,Srinagar ,4,0,0,0,0,0
+22,Srinagar ,5,0,0,0,0,0
+22,Srinagar ,6,0,0,0,0,0
+22,Srinagar ,7,0,0,0,0,0
+22,Srinagar ,8,0,0,0,0,0
+22,Srinagar ,9,0,0,0,0,0
+22,Srinagar ,10,0,0,0,0,0
+22,Srinagar ,11,0,0,0,0,0
+22,Srinagar ,12,0,0,0,0,0
+23,Thrissur ,1,0,0,0,0,0
+23,Thrissur ,2,0,0,0,0,0
+23,Thrissur ,3,0,0,0,0,0
+23,Thrissur ,4,0,0,0,0,0
+23,Thrissur ,5,0,0,0,0,0
+23,Thrissur ,6,0,0,0,0,0
+23,Thrissur ,7,0,0,0,0,0
+23,Thrissur ,8,0,0,0,0,0
+23,Thrissur ,9,0,0,0,0,0
+23,Thrissur ,10,0,0,0,0,0
+23,Thrissur ,11,0,0,0,0,0
+23,Thrissur ,12,0,0,0,0,0
+24,Vadodara ,1,0,0,0,0,0
+24,Vadodara ,2,0,0,0,0,0
+24,Vadodara ,3,0,0,0,0,0
+24,Vadodara ,4,0,0,0,0,0
+24,Vadodara ,5,0,0,0,0,0
+24,Vadodara ,6,0,0,0,0,0
+24,Vadodara ,7,0,0,0,0,0
+24,Vadodara ,8,0,0,0,0,0
+24,Vadodara ,9,0,0,0,0,0
+24,Vadodara ,10,0,0,0,0,0
+24,Vadodara ,11,0,0,0,0,0
+24,Vadodara ,12,0,0,0,0,0
